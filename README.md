@@ -1,7 +1,4 @@
-<p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
-</p>
-
+## HI There 
 My name is Pablo Carreras, currently I am a student at St. Mother Teresa HS, Ottawa, Canada.
 
 ## Programing language 
