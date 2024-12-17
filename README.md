@@ -1,5 +1,6 @@
-![download](https://github.com/user-attachments/assets/78110e54-dccc-4fec-8867-3433aa2eecdc)
-## HI There 
+
+## HI There ![images](https://github.com/user-attachments/assets/ac3ebec2-8353-419e-ad6e-02d06e6ef7a3)
+
 
 My name is Pablo Carreras, currently I am a student at St. Mother Teresa HS, Ottawa, Canada.
 
