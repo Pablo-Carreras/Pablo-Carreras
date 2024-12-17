@@ -1,5 +1,6 @@
-![jumpscare]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL9TZiXifSg_4WKIcQfNDn-1zIcbK22vdF&psig=AOvVaw3C9U0LcagHk8ekUFcFlpfr&ust=1734538088229000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCDo4aYr4oDFQAAAAAdAAAAABAa
-
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
 
 My name is Pablo Carreras, currently I am a student at St. Mother Teresa HS, Ottawa, Canada.
 
