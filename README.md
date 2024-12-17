@@ -1,7 +1,9 @@
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/PabloCarreras/PabloCarreras/master/intro.gif" alt="👋 Hi there! I'm (Pablo(Carreras)|https://PabloCarreras)" title="👋 Hi there! I'm (Pablo(Carreras)|https://PabloCarreras)"/>](https://PabloCarreras/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Pablo.Carreras&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=PabloCarreras.PabloCarrears&color=00cf00)
+
+
 My name is Pablo Carreras, currently I am a student at St. Mother Teresa HS, Ottawa, Canada.
 
 ## Programing language 
